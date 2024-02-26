@@ -11,10 +11,8 @@ This Python-based YouTube downloader utilizes the `youtube-dlp` library to provi
 2. **Format Selection:**
    - Fetches available formats for the provided YouTube URL using `youtube-dlp`.
    - Presents a dropdown menu with a list of available formats for the user to choose from.
-   - Formats are categorized based on resolution, making it easier for users to select the desired quality.
-
+   - Formats are categorized based on resolution
 3. **Audio Download Options:**
-   - Users can choose to download videos with or without audio.
    - When selecting a video format without audio, the application automatically extracts and downloads the audio in MP3 format. You can override this by downloading a video with the best audio quality listed for a different format.
    - Includes an option to download only the audio from a video.
 
