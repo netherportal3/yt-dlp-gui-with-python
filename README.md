@@ -1,4 +1,4 @@
-# YouTube Downloader by netherportal3
+# YT-DLP GUI by netherportal3
 
 This Python-based YouTube downloader utilizes the `youtube-dlp` library to provide a user-friendly interface for downloading YouTube videos and audio. The application is built using Tkinter for the GUI.
 
