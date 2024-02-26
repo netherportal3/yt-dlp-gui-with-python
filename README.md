@@ -63,3 +63,6 @@ This Python-based YouTube downloader utilizes the `youtube-dlp` library to provi
 
 This YouTube downloader is intended for personal and non-commercial use only. Ensure that you have the necessary rights or permissions before downloading any copyrighted content. The developer is not responsible for any misuse of this application.
 
+## Sources:
+YoutubeDLP: https://github.com/yt-dlp/yt-dlp
+
