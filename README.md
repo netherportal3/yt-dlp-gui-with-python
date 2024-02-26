@@ -54,6 +54,7 @@ This Python-based YouTube downloader utilizes the `youtube-dlp` library to provi
 1. Ensure you have Python installed on your system.
 2. Install the required libraries by running:
     `pip3 install -U --pre yt-dlp`
+    `sudo apt-get install ffmpeg` or however else you might install it. Use their nightly release if you can, avoids some common issues.
 4. Copy the provided code into a Python file (e.g., `youtube_downloader.py`).
 5. Run the Python script to launch the YouTube downloader application.
 
@@ -63,4 +64,4 @@ This YouTube downloader is intended for personal and non-commercial use only. En
 
 ## Sources:
 YoutubeDLP: https://github.com/yt-dlp/yt-dlp
-
+FFmpeg: https://www.ffmpeg.org/
