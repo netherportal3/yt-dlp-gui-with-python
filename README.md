@@ -67,5 +67,5 @@ YoutubeDLP: https://github.com/yt-dlp/yt-dlp
 FFmpeg: https://www.ffmpeg.org/
 
 ## Current Tested Platforms:
-Debian Bookworm (12) - No issues found
-Ubuntu 20.04.6 LTS CLI-Only - No issues found
+Debian Bookworm (12) - No issues found. 
+Ubuntu 20.04.6 LTS CLI-Only - No issues found. 
